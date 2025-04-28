@@ -6,6 +6,7 @@ Welcome to the Image Classification projects repository! 🚀
 Here, we apply Convolutional Neural Networks (CNNs) to real-world datasets to classify images.
 
 📂 Projects Included
+
 🐱🐶 Cat vs Dog Image Classification
 A CNN model that classifies images into Cat or Dog categories. Trained with data augmentation and evaluated for high accuracy.
 
